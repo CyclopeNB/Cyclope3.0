@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/caracteristiques"
+        android:orderInCategory="100"
+        android:title="@string/caract_ristiques">
+
+    </item>
+    <item
+        android:id="@+id/parametres"
+        android:orderInCategory="100"
+        android:title="@string/param_tres">
+
+    </item>
+
+    <item
+        android:id="@+id/wifi"
+        android:orderInCategory="100"
+        android:title="@string/wifi"/>
+
+    <item
+        android:id="@+id/Apropos"
+        android:orderInCategory="100"
+        android:title="@string/a_propos"/>
+
+
+    <item android:id="@+id/quitter"
+        android:title="@string/quitter"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+</menu>

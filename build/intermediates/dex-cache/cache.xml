@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\darar\.android\build-cache\5dabc30e603c9de6edbe83a5d0e69bdfffe890fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9c123f396c31f33f4b1df9d04eb1655dd1de283">
+        <dex dex="C:\Users\darar\Downloads\Cyclope1.0\app\build\intermediates\pre-dexed\debug\classes_5fb0ea15c5f8c1f0c1b97fafded017349344116f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\darar\.android\build-cache\f775565e121d7dfc837b2965bf80ede40f61f4b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39b7ed5c77e3cbba1449ee21835a59da3e6e3c3a">
+        <dex dex="C:\Users\darar\Downloads\Cyclope1.0\app\build\intermediates\pre-dexed\debug\classes_c720b01125ce1a75772374fb361b3a7683347226.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cyclope 1.0</string>
+    <string name="caract_ristiques">Caractéristiques</string>
+    <string name="param_tres">Paramètres</string>
+    <string name="a_propos">A propos</string>
+    <string name="quitter">Quitter</string>
+    <string name="wifi">WIFI</string>
+    <string name="bluetooh">Bluetooh</string>
+    <string name="txtPilotage">Pilotage drone</string>
+    <string name="simulation">PILOTER</string>
+    <string name="mode_test">MODE TEST</string>
+    <string name="bluetooth">Bluetooth</string>
+</resources>

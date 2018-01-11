@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mjpegviewer_v1.0.4-unspecified">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/5dabc30e603c9de6edbe83a5d0e69bdfffe890fa/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/5dabc30e603c9de6edbe83a5d0e69bdfffe890fa/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

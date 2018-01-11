@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:13:5-40:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\darar\.android\build-cache\fae77cdf8356f4e1c2846c82b550830c6e1952cd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\darar\.android\build-cache\ac2c6709ffff4b197280afe7cdfba195bfb2a3eb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\darar\.android\build-cache\3609183ad30526d1ee11becb6ecd85e442aba32c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\darar\.android\build-cache\369caa0b56ab8422e0b7219e1a14b1ad0a019ef9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\darar\.android\build-cache\4accd11641508176bed9b64b54d9453cd7aac14c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\darar\.android\build-cache\20b7c4298178e7c6d89da0ab89fdc6d92c376e7d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\darar\.android\build-cache\33926055509e35ed18cdc52035b8dc58eed9d89e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\darar\.android\build-cache\8ca0ae1b232eb1db473aada9031ed2899a7b6568\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\darar\.android\build-cache\fd92cdb4bb6d323521e7e6065a3116718619b759\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\darar\.android\build-cache\a0833ae93f6b4ebb13196239fdd96135e5d49faf\output\AndroidManifest.xml:9:5-20
+MERGED from [Cyclope1.0:mjpegviewer_v1.0.4:unspecified] C:\Users\darar\.android\build-cache\5dabc30e603c9de6edbe83a5d0e69bdfffe890fa\output\AndroidManifest.xml:11:5-14:19
+	android:label
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:18:9-35
+	android:roundIcon
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:17:9-54
+	android:allowBackup
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:15:9-46
+	android:theme
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:19:9-40
+activity#fr.example.ly34u.cyclope10.MainActivity
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:screenOrientation
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:21:13-50
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:26:27-74
+activity#fr.example.ly34u.cyclope10.caracteristiqueActivity
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:29:9-129
+	android:parentActivityName
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:29:59-127
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:29:19-58
+activity#fr.example.ly34u.cyclope10.ParametresActivity
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:32:9-124
+	android:parentActivityName
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:32:54-122
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:32:19-53
+activity#fr.example.ly34u.cyclope10.AproposActivity
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:33:9-121
+	android:parentActivityName
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:33:51-119
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:33:19-50
+activity#fr.example.ly34u.cyclope10.WifiActivity
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:34:9-118
+	android:parentActivityName
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:34:48-116
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:34:19-47
+activity#fr.example.ly34u.cyclope10.QuitterActivity
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:35:9-52
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:35:19-50
+activity#fr.example.ly34u.cyclope10.BluetoohActivity
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:36:9-122
+	android:parentActivityName
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:36:52-120
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:36:19-51
+activity#fr.example.ly34u.cyclope10.PiloterActivity
+ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:37:9-38:52
+	android:screenOrientation
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:38:13-50
+	android:name
+		ADDED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml:37:19-50
+uses-sdk
+INJECTED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\darar\.android\build-cache\fae77cdf8356f4e1c2846c82b550830c6e1952cd\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\darar\.android\build-cache\ac2c6709ffff4b197280afe7cdfba195bfb2a3eb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\darar\.android\build-cache\3609183ad30526d1ee11becb6ecd85e442aba32c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\darar\.android\build-cache\369caa0b56ab8422e0b7219e1a14b1ad0a019ef9\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\darar\.android\build-cache\4accd11641508176bed9b64b54d9453cd7aac14c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\darar\.android\build-cache\20b7c4298178e7c6d89da0ab89fdc6d92c376e7d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\darar\.android\build-cache\33926055509e35ed18cdc52035b8dc58eed9d89e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\darar\.android\build-cache\8ca0ae1b232eb1db473aada9031ed2899a7b6568\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\darar\.android\build-cache\fd92cdb4bb6d323521e7e6065a3116718619b759\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\darar\.android\build-cache\a0833ae93f6b4ebb13196239fdd96135e5d49faf\output\AndroidManifest.xml:5:5-7:41
+MERGED from [io.github.controlwear:virtualjoystick:1.7.1] C:\Users\darar\.android\build-cache\f775565e121d7dfc837b2965bf80ede40f61f4b4\output\AndroidManifest.xml:8:5-10:41
+MERGED from [Cyclope1.0:mjpegviewer_v1.0.4:unspecified] C:\Users\darar\.android\build-cache\5dabc30e603c9de6edbe83a5d0e69bdfffe890fa\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\darar\.android\build-cache\fae77cdf8356f4e1c2846c82b550830c6e1952cd\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\darar\Downloads\Cyclope1.0\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\darar\.android\build-cache\fae77cdf8356f4e1c2846c82b550830c6e1952cd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\darar\.android\build-cache\ac2c6709ffff4b197280afe7cdfba195bfb2a3eb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\darar\.android\build-cache\3609183ad30526d1ee11becb6ecd85e442aba32c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\darar\.android\build-cache\369caa0b56ab8422e0b7219e1a14b1ad0a019ef9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\darar\.android\build-cache\4accd11641508176bed9b64b54d9453cd7aac14c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\darar\.android\build-cache\20b7c4298178e7c6d89da0ab89fdc6d92c376e7d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\darar\.android\build-cache\33926055509e35ed18cdc52035b8dc58eed9d89e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\darar\.android\build-cache\8ca0ae1b232eb1db473aada9031ed2899a7b6568\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\darar\.android\build-cache\fd92cdb4bb6d323521e7e6065a3116718619b759\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\darar\.android\build-cache\fae77cdf8356f4e1c2846c82b550830c6e1952cd\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\darar\.android\build-cache\fae77cdf8356f4e1c2846c82b550830c6e1952cd\output\AndroidManifest.xml:26:9-47

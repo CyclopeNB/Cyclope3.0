@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="fr.example.ly34u.cyclope10.caracteristiqueActivity">
+
+
+    <item
+        android:id="@+id/parametres"
+        android:orderInCategory="100"
+        android:title="@string/param_tres"/>
+
+
+    <item
+        android:id="@+id/wifi"
+        android:orderInCategory="100"
+        android:title="@string/wifi"/>
+
+
+
+    <item
+        android:id="@+id/bluetooth"
+        android:orderInCategory="100"
+        android:title="@string/bluetooh"/>
+
+    <item
+        android:id="@+id/Apropos"
+        android:orderInCategory="100"
+        android:title="@string/a_propos"/>
+
+
+
+
+    <item android:id="@+id/quitter"
+        android:title="@string/quitter"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+
+
+
+
+
+</menu>
